@@ -1,3 +1,0 @@
-[submodule "etix-common"]
-	path = etix-common
-	url = ssh://git@192.168.10.42:2222/etix/etix-common.git
